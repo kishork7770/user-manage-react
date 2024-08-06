@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "5a7c",
+      "name": "Kishor7770",
+      "email": "kishor@gmail.com",
+      "password": "Kishor@2002",
+      "confirmPass": "Kishor@2002",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "6357",
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "password": "Vishal@123",
+      "confirmPass": "Manish@123",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "112d",
+      "name": "Kishor",
+      "email": "kishor123@gmail.com",
+      "password": "abcd@123",
+      "confirmPass": "abcd@123",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "9d9f",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abcd123",
+      "confirmPass": "abcd123",
+      "role": "admin",
+      "status": "active"
+    }
+  ]
+}
